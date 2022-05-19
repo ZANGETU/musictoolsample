@@ -1,4 +1,4 @@
 # musictoolsample
 動画で使用したやつの完成版(コード入り)
 
-コード無しが欲しい方はDiscordまで
+何かあればDiscordまで
